@@ -13,6 +13,8 @@ Keväällä 2026 kurssi järjestetään samalla tavalla Helsingin yliopiston tut
 
 Kurssin ohjausta on tarjolla [Discordissa](https://study.cs.helsinki.fi/discord/join/tikape), jossa voit keskustella kurssin järjestäjien ja muiden opiskelijoiden kanssa. Lisäksi järjestetään pajaohjausta Exactumin salissa BK107 keskiviikkoisin klo 12–16 sekä perjantaisin klo 12–16.
 
+Kurssin materiaali ja tehtävät ovat keväällä 2026 saatavilla myös ruotsiksi rinnakkaisella kurssisivustolla ([Databasernas grunder](https://tikape.mooc.fi/var-2026/)).
+
 ## Tehtävät ja arvostelu
 
 Kurssin suoritus muodostuu kahdesta tehtäväpaketista (SQL-tehtävät ja projektitehtävät). Molemmissa tehtäväpaketeissa maksimipistemäärä on 100, ja kurssin hyväksytty suoritus vaatii vähintään 60 pistettä kummastakin tehtäväpaketista.
