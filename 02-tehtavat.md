@@ -19,12 +19,8 @@ Tehtävät 1–20 liittyvät materiaalin lukuun 2, tehtävät 21–40 liittyvät
 
 ## Projektitehtävät
 
-Projektitehtävät julkaistaan tammikuun loppuun mennessä.
-
-<!--
-Kurssin projektitehtävät ovat saatavilla kurssin [tehtävärepositoriossa](https://github.com/hy-tikape/tehtavat/blob/main/README.md).
+Kurssin projektitehtävät ovat saatavilla [tästä](../projekti/).
 
 Sinun tulee ratkaista tehtävät itsenäisesti, mutta saat käyttää haluamallasi tavalla nettilähteitä ja tekoälytyökaluja, kunhan raportoit, mitä olet tehnyt.
 
 Viimeisessä tehtävässä on ohjeet, miten voit ilmoittautua kurssille sekä antaa kurssipalautteen.
--->
