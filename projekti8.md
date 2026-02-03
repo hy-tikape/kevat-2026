@@ -16,7 +16,7 @@ Kurssin suoritusmerkinnän saaminen vaatii, että ilmoittaudut kurssille viimeis
 
 ## Kurssipalaute
 
-Anna kurssipalaute [Norppa-järjestelmän](https://coursefeedback.helsinki.fi/targets/95199759) kautta.
+Anna kurssipalaute [Norppa-järjestelmän](https://coursefeedback.helsinki.fi/targets/95200219) kautta.
 
 Palaute on anonyymia ja palautteen yhteenveto julkaistaan kurssisivustolla. Anna palaute viimeistään 9.3.2026.
 
