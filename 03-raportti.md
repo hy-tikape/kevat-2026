@@ -61,7 +61,7 @@ _Kommentti_: Mikä on esittelyasiakirja?
 
 "Materiaaleista tuntuu puuttuvan jopa SQL-syntaksiin liittyviä asoioita, joka on huolestuttavaa."
 
-_Kommentti_: Mitä asioita puuttuu? SQL on toisaalta hyvin laaja kieli, joten ehkä ei ole kohtuullinen tavoite käsitellä kielen syntaksia täydelisesti 5 op laajuisella kurssilla.
+_Kommentti_: Mitä asioita puuttuu? SQL on toisaalta hyvin laaja kieli, joten ehkä ei ole kohtuullinen tavoite käsitellä kielen syntaksia täydellisesti 5 op laajuisella kurssilla.
 
 "Kurssipalautteen antaminen osana arvostelua ei saa olla pakollista kiitettävään arvosanaan, koska kurssipalautetta ei voi antaa anonyyminä (ilman kirjautumista)"
 
